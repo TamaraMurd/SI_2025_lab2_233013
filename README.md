@@ -3,3 +3,7 @@
 Втора лабараториска вежба по Софтверско инженерство
 
 Тамара Мурџоска, бр. на индекс 233013
+
+Control Flow Graph
+
+![Фотографија од control flow graph-ot](images/CFGDiagram.svg)
