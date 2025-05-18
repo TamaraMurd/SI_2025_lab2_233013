@@ -8,6 +8,8 @@ Control Flow Graph
 
 ![Фотографија од control flow graph-ot](images/CFGDiagram.svg)
 
+![Фотографија од control flow graph-ot - objasnuvanje](images/objasnuvanje.png)
+
 Цикломатска комплексност
 
 Цикломатската комплексност на овој код е 9, истата ја добив преку формулата P+1. Во овој код имаме 6 if услови, и 2 for циклуси. Според формулата добиваме 8+1 = 9.
