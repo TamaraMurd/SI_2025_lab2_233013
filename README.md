@@ -8,7 +8,7 @@ Control Flow Graph
 
 ![Фотографија од control flow graph-ot](images/CFGDiagram.svg)
 
-![Фотографија од control flow graph-ot - objasnuvanje na brojkite od dijagramot spored liniite vo kodot](images/objasnuvanje.png)
+![Фотографија од control flow graph-ot - objasnuvanje na brojkite od dijagramot spored liniite vo kodot](images/objasnuvanje.jpg)
 
 Цикломатска комплексност
 
